@@ -5,8 +5,8 @@ to S3 bucket, and then transformed into tables in AWS Postgres.
 ![](https://github.com/padekdee/Twitter-Data-Analysis/blob/main/Architecture.PNG)
 
 Prerequisite:
-1. AWS access keys
-2. AWS secret key
+1. AWS access keys, secret key
+2. Twitter API Key and Secret, Access Token and Secret
 3. s3 bucket created with name twitterData
 
 Processing Logic:
