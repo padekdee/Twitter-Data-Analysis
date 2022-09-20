@@ -2,7 +2,7 @@ Build a data pipeline to extract tweets mentioning given word and store them
 in tables that can be queried. Data is ingested from Twitter API, then moved
 to S3 bucket, and then transformed into tables in AWS Postgres.
 
-![](C:\Deepika\Personal\IKEA\Twitter-Sentiment-Analysis-master\Architecture.PNG)
+![](https://github.com/padekdee/Twitter-Data-Analysis/blob/main/Architecture.PNG)
 
 Prerequisite:
 1. AWS access keys
